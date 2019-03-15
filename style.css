@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', "Helvetica Neue", "Helvetica", "sans-serif";
+    color: gray;
+    background: gray;
+    width: '960px';
+    font-size: '18px';
+    text-align: center;
+}
+#marg {
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+
+
+}
+.color1 {
+    background-color: lightgrey;
+    height: 90px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+}
+
+
+
+
+
+.scc {
+    display: inline-block;
+    width:48%;
+    background-color: lightgrey;
+    padding: 15px;
+    height: 340px;
+}
+
+
+.art {
+    background-color: gray;
+    padding: 30px; 
+    color: lightgrey;
+
+}
+
+.h1p {
+    background-color: lightgrey;
+    height: 55px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    color: gray;
+}
+
+#aside {
+    display: inline-block;
+    width:48%;
+    background-color: lightgrey;
+    float:right;
+    height: 370px;
+}
